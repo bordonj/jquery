@@ -1,0 +1,11 @@
+.expanded, .sec1-showing, .sec2-showing {
+  display: none;
+}
+
+.expanded, .expanded2 {
+  width: 300px;
+}
+
+img {
+  width: 300px;
+}
